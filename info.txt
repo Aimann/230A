@@ -1,0 +1,1 @@
+track type=bigWig name=proteinA smoothingWindow=4 color=123,100,50 autoScale=on viewLimits=1:200 visibility=full windowingFunction=maximum bigDataUrl=https://github.com/Aimann/230A/blob/master/tRNAreads_M1N.bw
